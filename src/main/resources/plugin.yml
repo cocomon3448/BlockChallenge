@@ -1,0 +1,5 @@
+name: BlockChallenge
+version: ${project.version}
+main: com.cocomon3448.blockch.blockchallenge.LoadMain
+api-version: 1.17
+description: "none"
